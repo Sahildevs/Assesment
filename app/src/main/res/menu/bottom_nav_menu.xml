@@ -4,11 +4,11 @@
 
     <item
         android:id="@+id/homeFragment"
-        android:icon="@drawable/ic_baseline_home_24"
-        android:title="Home" />
+        android:icon="@drawable/ic_baseline_notes_24"
+        android:title="Notes" />
     <item
         android:id="@+id/accountFragment"
-        android:icon="@drawable/ic_baseline_supervisor_account_24"
+        android:icon="@drawable/ic_baseline_playlist_add_24"
         android:title="Add Note" />
 
 </menu>

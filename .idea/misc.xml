@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Assesment/app/src/main/res/drawable/et_background.xml" value="0.1605" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Assesment/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.144" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Assesment/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.144" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Assesment/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.144" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Assesment/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.144" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Assesment/app/src/main/res/drawable/ic_baseline_supervisor_account_24.xml" value="0.144" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Assesment/app/src/main/res/drawable/ic_launcher_background.xml" value="0.144" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Assesment/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Assesment/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Assesment/app/src/main/res/layout/activity_test.xml" value="0.25416666666666665" />
