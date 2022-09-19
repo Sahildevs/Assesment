@@ -25,6 +25,8 @@ public class AddNoteFragment extends Fragment {
     private EditText etDescription;
     private Button btnSaveNote;
 
+
+
     private NoteRepository repository;
 
     @Override
@@ -70,14 +72,19 @@ public class AddNoteFragment extends Fragment {
             Toast.makeText(getActivity(), "Please insert a title & description", Toast.LENGTH_SHORT).show();
         }
 
+
         Note note = new Note(title, description);
         repository.insert(note);
 
         Toast.makeText(getActivity(), "Note saved", Toast.LENGTH_SHORT).show();
 
+
+
         FragmentTransaction fr = getFragmentManager().beginTransaction();
         fr.replace(R.id.mainContainer,new HomeFragment());
         fr.commit();
+
+
 
 
     }
