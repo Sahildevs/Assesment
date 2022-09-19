@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void loginUser(String u_email, String u_pass) {
 
-        String loginEmain = "Sahil";
+        String loginEmain = "test@gmail.com";
         String loginPassword = "123";
 
         //to check if user has entered his email in the emali field
